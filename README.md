@@ -10,13 +10,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Kingsley | LinkedIn" width="22px" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" />][linkedin]
+[<img align="left" alt="Kingsley | LinkedIn" width="60px" src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="PHP" width="26px" src="http://assets.stickpng.com/images/58481791cef1014c0b5e4994.png" />
+<img align="left" alt="PHP" width="26px" src="https://www.php.net/images/logos/new-php-logo.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
