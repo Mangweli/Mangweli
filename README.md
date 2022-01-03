@@ -17,7 +17,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="PHP" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg" />
-<img align="left" alt="laravel" width="40px" src="https://png.pngitem.com/pimgs/s/578-5785080_laravel-6-logo-png-transparent-png.png" />
+<img align="left" alt="laravel" width="50px" src="https://png.pngitem.com/pimgs/s/578-5785080_laravel-6-logo-png-transparent-png.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="VueJS" width="26px" src="https://vuejs.org/images/logo.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
