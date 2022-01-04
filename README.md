@@ -21,9 +21,7 @@
 <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
 
 <p align = "left">
-  <a href="https://www.linux.org/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40px"/>
-  </a>
+  <a href="https://www.linux.org/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40px"/></a>
 </p>
  
 <br />
