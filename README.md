@@ -34,6 +34,7 @@
 <a href = "https://vuejs.org/" target = "_blank">
  <img align="left" alt="VueJS" width="26px" src="https://vuejs.org/images/logo.svg" />
 </a>
+ <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href = "" target = "_blank">
  <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </a>
