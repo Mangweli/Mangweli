@@ -35,7 +35,7 @@
  <img align="left" alt="VueJS" width="26px" src="https://vuejs.org/images/logo.svg" />
 </a>
 <a href = "https://nodejs.org" target = "_blank">
- <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+ <img align="left" alt="Node.js" width="40px" src="https://github.com/Mangweli/Mangweli/blob/6505aaf103b65f43f31f144485b5d90204e3f7bf/pngwing.com.png" />
 </a>
 <a href="https://expressjs.com" target="_blank">
  <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
