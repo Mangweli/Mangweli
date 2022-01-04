@@ -28,13 +28,14 @@
 <a href = "https://laravel.com/" target = "_blank">
  <img align="left" alt="laravel" width="50px" src="https://png.pngitem.com/pimgs/s/578-5785080_laravel-6-logo-png-transparent-png.png" />
 </a>
+<a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" target = "_blank">
+  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+</a>
+<a href = "https://vuejs.org/" target = "_blank">
+ <img align="left" alt="VueJS" width="26px" src="https://vuejs.org/images/logo.svg" />
+</a>
 <a href = "" target = "_blank">
-  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href = "" target = "_blank">
+ <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </a>
   <a href = "" target = "_blank">
  </a>
@@ -44,13 +45,7 @@
  </a>
   <a href = "" target = "_blank">
  </a>
-  <a href = "" target = "_blank">
- </a>
 
-
-
-<img align="left" alt="VueJS" width="26px" src="https://vuejs.org/images/logo.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
