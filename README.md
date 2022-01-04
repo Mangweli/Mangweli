@@ -26,6 +26,18 @@
  
 <br />
 
+🔗 &nbsp;**Connect with me**
+<p align="left">
+ <a href="https://twitter.com/KMangwels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kingsley" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/kingsley-amaitsa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kingsley | LinkedIn" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/mangwels/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kingsley | Instagram" height="30" width="40" /></a>
+</p>
+
+<br />
+
+<b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
+
+
 &nbsp;**GitHub Stats**
  
 [![Kingsley's :zap: GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mangweli&count_private=true&show_icons=true&hide=contribs,stars&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
