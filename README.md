@@ -9,7 +9,7 @@
 - 🥅 2022 Goals: Learn and Explore more
 - ⚡ Fun fact: I'm an animal lover specifically dogs
 
----
+--
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
