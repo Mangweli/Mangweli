@@ -98,18 +98,15 @@
 
 ---
 
-<b> ⚡ &nbsp;**Stats**</b>
+<b> ⚡ &nbsp;**Github Stats**</b>
  
 [![Kingsley's :zap: GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mangweli&count_private=true&show_icons=true&hide=contribs,stars&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+<b> 🔭 &nbsp;**Github Top Languages**</b>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangweli&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mangweli&count_private=true&show_icons=true&hide=contribs,stars&theme=monokai" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangweli&layout=compact&theme=monokai" />
-</a>
 
 
 [linkedin]: https://www.linkedin.com/in/kingsley-amaitsa/
