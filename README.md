@@ -83,7 +83,7 @@
  <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 </a>
  
- <br/>
+<br/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -91,6 +91,8 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mangweli&show_icons=true&hide_border=true" />
 
 </details>
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/kingsley-amaitsa/
