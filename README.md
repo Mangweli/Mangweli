@@ -83,7 +83,9 @@
  </a>
  <a href="https://www.nginx.com" target="_blank">
   <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
- </a><br />
+ </a>
+ <br />
+ <br />
 </p>
  
 <br />
