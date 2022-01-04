@@ -20,7 +20,7 @@
 <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
  
 <a href="https://www.linux.org/" target="_blank">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40px"/>
+ <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40px"/>
 </a>
 <a href="https://www.php.net" target="_blank">
   <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="40px"/>
