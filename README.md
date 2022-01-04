@@ -98,17 +98,17 @@
 
 ---
 
-<b> ⚡ &nbsp;**GitHub Stats**</b>
+<b> ⚡ &nbsp;**Stats**</b>
  
 [![Kingsley's :zap: GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mangweli&count_private=true&show_icons=true&hide=contribs,stars&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangweli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mangweli&count_private=true&show_icons=true&hide=contribs,stars&theme=monokai" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangweli&layout=compact" />
 </a>
 
 
