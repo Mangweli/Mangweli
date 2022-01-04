@@ -80,7 +80,7 @@
  <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 </a>
 <a href="https://httpd.apache.org/" target="_blank">
- <img align = "left" src="https://www.brcline.com/wp-content/uploads/2020/06/apache-logo.png" alt="nginx" width="60" height = "30"/>
+ <img align = "left" src="https://e7.pngegg.com/pngimages/530/441/png-clipart-logo-apache-http-server-apache-software-foundation-computer-servers-web-server-apache-text-performance.png" alt="nginx" width="60" height = "30"/>
 </a>
  
  <br/>
