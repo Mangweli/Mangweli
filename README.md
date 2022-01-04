@@ -2,7 +2,7 @@
 
 ### “Choose a job you love, and you will never have to work a day in your life” - Confucius
 
-# I'm Kingsley, a Developer by nature with indepth skills in System Analysis and design
+#### I'm Kingsley, a Developer by nature with indepth skills in System Analysis and design
 
 - 🔭 I'm currently working on an exiting system that will change the world
 - 🌱 I’m currently learning Java springboot 🤣
