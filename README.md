@@ -84,6 +84,7 @@
 </a>
  
 <br/>
+ <br>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -92,12 +93,7 @@
 
 </details>
  
- [![Kingsley's :zap: GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mangweli&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangweli&hide=contribs,prs)
- 
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mangweli&show_icons=true&theme=radical)
+ [![Kingsley's :zap: GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mangweli&count_private=true&show_icons=true&hide=contribs,stars&theme=monakai)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/kingsley-amaitsa/
