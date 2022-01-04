@@ -9,6 +9,8 @@
 - 🥅 2022 Goals: Learn and Explore more
 - ⚡ Fun fact: I'm an animal lover specifically dogs
 
+---
+
 🔗 &nbsp;**Connect with me**
 <p align="left">
  <a href="https://twitter.com/KMangwels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kingsley" height="30" width="40" /></a>
@@ -17,6 +19,8 @@
 </p>
 
 <br />
+
+---
 
 <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
 
