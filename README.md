@@ -24,21 +24,6 @@
   <a href="https://www.linux.org/" target="_blank">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40px"/>
   </a>
-  <a href="https://www.php.net" target="_blank">
-    <img align="left" src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="40px"/>
-  </a>
- <a href = "https://laravel.com/" target = "_blank">
-  <img align="left" alt="laravel" width="50px" src="https://png.pngitem.com/pimgs/s/578-5785080_laravel-6-logo-png-transparent-png.png" />
- </a>
- <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" target = "_blank">
-   <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
- </a>
- <a href = "https://vuejs.org/" target = "_blank">
-  <img align="left" alt="VueJS" width="26px" src="https://vuejs.org/images/logo.svg" />
- </a>
- <a href = "https://nodejs.org" target = "_blank">
-  <img align="left" alt="Node.js" width="40" src="https://github.com/Mangweli/Mangweli/blob/6505aaf103b65f43f31f144485b5d90204e3f7bf/pngwing.com.png" />
- </a>
 </p>
  
 <br />
