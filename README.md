@@ -76,12 +76,13 @@
 <a href="https://cloud.google.com" target="_blank">
  <img align = "left" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 </a> 
+ <a href="https://httpd.apache.org/" target="_blank">
+ <img align = "left" src="https://e7.pngegg.com/pngimages/530/441/png-clipart-logo-apache-http-server-apache-software-foundation-computer-servers-web-server-apache-text-performance.png" alt="nginx" width="60" height = "30"/>
+</a>
 <a href="https://www.nginx.com" target="_blank">
  <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 </a>
-<a href="https://httpd.apache.org/" target="_blank">
- <img align = "left" src="https://e7.pngegg.com/pngimages/530/441/png-clipart-logo-apache-http-server-apache-software-foundation-computer-servers-web-server-apache-text-performance.png" alt="nginx" width="60" height = "30"/>
-</a>
+
  
  <br/>
 
