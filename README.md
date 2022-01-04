@@ -21,12 +21,12 @@
 <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
 
 <p align="left">
- <a href="https://www.linux.org/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40px"/>
- </a>
- <a href="https://www.php.net" target="_blank">
-   <img align="left" src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="40px"/>
- </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40px"/>
+  </a>
+  <a href="https://www.php.net" target="_blank">
+    <img align="left" src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="40px"/>
+  </a>
  <a href = "https://laravel.com/" target = "_blank">
   <img align="left" alt="laravel" width="50px" src="https://png.pngitem.com/pimgs/s/578-5785080_laravel-6-logo-png-transparent-png.png" />
  </a>
@@ -49,7 +49,7 @@
    <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
  </a>
  <a href="https://getbootstrap.com" target="_blank">
-   <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/
+   <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
  </a>
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img align = "left" src="https://github.com/Mangweli/Mangweli/blob/2f9c6c362d1efbd5f4054d81510fde2b250ce367/sqlserver.png" alt="mssql" width="40" height="40"/>
@@ -90,7 +90,7 @@
  
 :zap: &nbsp;**GitHub Stats**
  
- [![Kingsley's :zap: GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mangweli&count_private=true&show_icons=true&hide=contribs,stars&theme=monakai)](https://github.com/anuraghazra/github-readme-stats)
+ [![Kingsley's :zap: GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mangweli&count_private=true&show_icons=true&hide=contribs,stars&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/kingsley-amaitsa/
