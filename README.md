@@ -1,6 +1,6 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-
 ### “Choose a job you love, and you will never have to work a day in your life” - Confucius
+
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 #### I'm Kingsley, a Developer by nature with indepth skills in System Analysis and design
 
