@@ -35,10 +35,7 @@
  <img align="left" alt="VueJS" width="26px" src="https://vuejs.org/images/logo.svg" />
 </a>
 <a href = "https://nodejs.org" target = "_blank">
- <img align="left" alt="Node.js" width="40px" src="https://github.com/Mangweli/Mangweli/blob/6505aaf103b65f43f31f144485b5d90204e3f7bf/pngwing.com.png" />
-</a>
-<a href="https://expressjs.com" target="_blank">
- <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+ <img align="left" alt="Node.js" width="40" src="https://github.com/Mangweli/Mangweli/blob/6505aaf103b65f43f31f144485b5d90204e3f7bf/pngwing.com.png" />
 </a>
 <a href="https://www.w3.org/html/" target="_blank">
   <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
