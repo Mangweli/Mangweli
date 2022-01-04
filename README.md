@@ -84,14 +84,9 @@
 </a>
  
 <br/>
- <br>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mangweli&show_icons=true&hide_border=true" />
-
-</details>
+<br>
+ 
+:zap: &nbsp;**GitHub Stats**
  
  [![Kingsley's :zap: GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mangweli&count_private=true&show_icons=true&hide=contribs,stars&theme=monakai)](https://github.com/anuraghazra/github-readme-stats)
 
