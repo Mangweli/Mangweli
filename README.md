@@ -49,13 +49,6 @@
 <a href="https://getbootstrap.com" target="_blank">
   <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/
 </a>
-
-  <a href = "" target = "_blank">
- </a>
-  <a href = "" target = "_blank">
- </a>
-  <a href = "" target = "_blank">
- </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
  <img align = "left" src="https://github.com/Mangweli/Mangweli/blob/2f9c6c362d1efbd5f4054d81510fde2b250ce367/sqlserver.png" alt="mssql" width="40" height="40"/>
 </a>
@@ -64,6 +57,9 @@
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
    <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="https://redis.io" target="_blank">
+  <img  align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com/" target="_blank"> 
   <img align = "left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -83,8 +79,8 @@
 <a href="https://www.nginx.com" target="_blank">
  <img align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 </a>
-<a href="https://redis.io" target="_blank">
-  <img  align = "left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+<a href="https://httpd.apache.org/" target="_blank">
+ <img align = "left" src="https://www.brcline.com/wp-content/uploads/2020/06/apache-logo.png" alt="nginx" width="40" height="40"/>
 </a>
  
  <br/>
