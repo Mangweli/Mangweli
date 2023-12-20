@@ -98,11 +98,5 @@
 
 ---
 
-<b> ⚡ &nbsp;**Github Stats**</b>
- 
-[![Kingsley's :zap: GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mangweli&count_private=true&show_icons=true&hide=contribs,stars&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 
 [linkedin]: https://www.linkedin.com/in/kingsley-amaitsa/
