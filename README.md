@@ -13,13 +13,28 @@
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
- <a href="https://twitter.com/KMangwels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kingsley" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/kingsley-amaitsa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kingsley | LinkedIn" height="30" width="40" /></a>
- <a href="https://www.instagram.com/mangwels/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kingsley | Instagram" height="30" width="40" /></a>
+<a href="https://twitter.com/KMangwels">
+  <img src="https://img.shields.io/badge/kmangwels-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="follow on Twitter">
+</a>
+<a href="https://www.linkedin.com/in/kingsley-amaitsa/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Profile on LinkedIn">
+</a>
+<a href="https://www.instagram.com/mangwels/">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram">
+</a>
+ <a href="mailto:amaitsakingsley@gmail.com">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email">
+</a>
 </p>
 
-<br />
----
+### Operating systems
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-77216F?style=for-the-badge&logo=Ubuntu&logoColor=white)
+
+
+#### Metrics
+![Stats](https://komarev.com/ghpvc/?username=mangweli&color=blue)
+
 
 
 [linkedin]: https://www.linkedin.com/in/kingsley-amaitsa/
