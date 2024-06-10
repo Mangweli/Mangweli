@@ -30,11 +30,8 @@
 ### Operating systems
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-77216F?style=for-the-badge&logo=Ubuntu&logoColor=white)
-
+<!--
 
 #### Metrics
 ![Stats](https://komarev.com/ghpvc/?username=mangweli&color=blue)
-
-
-
-[linkedin]: https://www.linkedin.com/in/kingsley-amaitsa/
+-->
