@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-#### I'm Kingsley, a Senior Software Engineer specializing in Software Analysis and Design, Development, and Deployment with a strong focus on DevOps practices.
+#### I'm Kingsley, a Senior Software Engineer specializing in Software Analysis and Design with a strong focus on DevOps practices.
 
 I bring a wealth of experience in crafting scalable and efficient software solutions. My expertise spans across multiple programming languages and frameworks, enabling me to design and implement robust systems. I am passionate about continuous learning and am always exploring new technologies to enhance my skill set.
 
