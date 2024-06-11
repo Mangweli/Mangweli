@@ -8,7 +8,7 @@ I bring a wealth of experience in crafting scalable and efficient software solut
 
 - 🔭 I'm currently working on an exciting system that will change the world
 - 🌱 I’m currently learning Java Spring Boot 🤣
-- 🥅 2022 Goals: Learn and Explore more
+- 🥅 2024 Goals: Learn and Explore more
 - ⚡ Fun fact: I'm an animal lover, especially dogs
 
 🔗 &nbsp;**Connect with me**
