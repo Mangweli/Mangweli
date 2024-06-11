@@ -2,12 +2,14 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
-#### I'm Kingsley, a Developer by nature with indepth skills in System Analysis and design
+#### I'm Kingsley, a Senior Software Engineer specializing in Software Analysis and Design, Development, and Deployment with a strong focus on DevOps practices.
 
-- 🔭 I'm currently working on an exiting system that will change the world
-- 🌱 I’m currently learning Java springboot 🤣
+I bring a wealth of experience in crafting scalable and efficient software solutions. My expertise spans across multiple programming languages and frameworks, enabling me to design and implement robust systems. I am passionate about continuous learning and am always exploring new technologies to enhance my skill set.
+
+- 🔭 I'm currently working on an exciting system that will change the world
+- 🌱 I’m currently learning Java Spring Boot 🤣
 - 🥅 2022 Goals: Learn and Explore more
-- ⚡ Fun fact: I'm an animal lover especially dogs
+- ⚡ Fun fact: I'm an animal lover, especially dogs
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
@@ -46,6 +48,7 @@
 ![MS SQL](https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 <!--
