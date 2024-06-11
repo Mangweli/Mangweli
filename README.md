@@ -7,7 +7,7 @@
 - 🔭 I'm currently working on an exiting system that will change the world
 - 🌱 I’m currently learning Java springboot 🤣
 - 🥅 2022 Goals: Learn and Explore more
-- ⚡ Fun fact: I'm an animal lover specifically dogs
+- ⚡ Fun fact: I'm an animal lover especially dogs
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
