@@ -30,7 +30,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-77216F?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
 
-### Languages
+### Languages and Tools
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
