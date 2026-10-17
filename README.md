@@ -4,7 +4,7 @@
 
 #### I'm Kingsley, a Senior Backend Engineer & Technical Lead based in Nairobi, Kenya.
 
-I lead backend architecture and engineering for Little Limited's ride-hailing, logistics, HR/payroll, and fintech platforms, and freelance as a backend engineer via Proxify — most recently building a spec-first Partner API for a Dutch property-rental platform. I also design and ship my own products end-to-end, including [Niaa](https://niaa.app), a personal finance app for East Africa. Strongest where backend architecture, infrastructure, and engineering leadership meet.
+At Little Limited, I handle systems analysis and design, backend architecture, and engineering leadership for our ride-hailing, logistics, HR/payroll, and fintech platforms — usually starting from a business problem, not a spec. I also freelance as a backend engineer via Proxify (currently building a spec-first Partner API for a Dutch property-rental platform), and build my own products end to end, including [Niaa](https://niaa.app), a personal finance app for East Africa.
 
 - 🔭 Currently leading development across Little Limited's platforms: HR/payroll, SecureX (SOS/emergency-dispatch), AdvanceSalary_V2 (earned-wage-access), and a staff/rides-management microservices platform (incl. a logistics/mapping admin tool and school-ride scheduling) — plus a spec-first Partner API migration for a Proxify client
 - 🌱 Currently growing [Niaa](https://niaa.app) into a second product line (Niaa Real Estate)
